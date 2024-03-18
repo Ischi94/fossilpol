@@ -1,0 +1,73 @@
+chroncontroltype,include,calibrate
+Ambrosia rise,TRUE,TRUE
+Annual laminations (varves),TRUE,TRUE
+Annual laminations (varves)/Sedimentation rate,TRUE,TRUE
+Argon-argon,TRUE,TRUE
+Biostratigraphic,TRUE,TRUE
+"Biostratigraphic, pollen",TRUE,TRUE
+"Biostratigraphic, pollen, Allerød/Younger Dryas",TRUE,TRUE
+"Biostratigraphic, pollen, Older Dryas/Allerød",TRUE,TRUE
+"Biostratigraphic, pollen, Oldest Dryas/Bølling",TRUE,TRUE
+"Biostratigraphic, pollen, Pleniglacial/Meiendorf",TRUE,TRUE
+"Biostratigraphic, pollen, Younger Dryas/Holocene",TRUE,TRUE
+"Biostratigraphic, pollen, regional",TRUE,TRUE
+Blytt-Sernander boundary,TRUE,TRUE
+Casuarina rise,TRUE,TRUE
+Collection date,TRUE,TRUE
+Core bottom,TRUE,TRUE
+Core top,TRUE,TRUE
+"Core top, estimated",TRUE,TRUE
+Cultural,TRUE,TRUE
+Deglaciation,TRUE,TRUE
+European settlement horizon,TRUE,TRUE
+Event stratigraphic,TRUE,TRUE
+Extrapolated,TRUE,TRUE
+Firbas pollen-zone boundary,TRUE,TRUE
+Geochronologic,TRUE,TRUE
+Geologic time scale,TRUE,TRUE
+Geologic time-scale boundary,TRUE,TRUE
+Guess,TRUE,TRUE
+Heeb & Welten (1972) pollen boundary,TRUE,TRUE
+Heinrich stadials,TRUE,TRUE
+Historical documentation,TRUE,TRUE
+Historical fire,TRUE,TRUE
+IDW-2d Alnus decline,TRUE,TRUE
+IDW-2d Picea decline,TRUE,TRUE
+IDW-2d Quercus rise,TRUE,TRUE
+IDW-2d Tsuga decline,TRUE,TRUE
+IDW-2d Ulmus decline,TRUE,TRUE
+Infrared Stimulated Luminescence (IRSL),TRUE,TRUE
+Interpolated,TRUE,TRUE
+Introduced Pinus rise,TRUE,TRUE
+Isotopic excursion,TRUE,TRUE
+Lead-210,TRUE,TRUE
+Marine isotope stage boundary,TRUE,TRUE
+Marine isotope stage event,TRUE,TRUE
+Marine isotope stages,TRUE,TRUE
+Optically stimulated luminescence,TRUE,TRUE
+Other absolute dating methods,TRUE,TRUE
+Other dating methods,TRUE,TRUE
+Oxygen-18,TRUE,TRUE
+Palaeomagnetic,TRUE,TRUE
+Picea decline,TRUE,TRUE
+Pollen concentration (Middeldorp method),TRUE,TRUE
+Pre-EuroAmerican settlement horizon,TRUE,TRUE
+Quaternary event classification,TRUE,TRUE
+Radiocarbon,TRUE,TRUE
+"Radiocarbon, average of two or more dates",TRUE,TRUE
+"Radiocarbon, calibrated",TRUE,TRUE
+"Radiocarbon, calibrated from calendar years",TRUE,TRUE
+"Radiocarbon, calibrated, Bayesian modelled",TRUE,TRUE
+"Radiocarbon, infinite",TRUE,TRUE
+"Radiocarbon, reservoir correction",TRUE,TRUE
+Relative time scale,TRUE,TRUE
+Salsola rise,TRUE,TRUE
+Section top,TRUE,TRUE
+Sediment stratigraphic,TRUE,TRUE
+Stratigraphic,TRUE,TRUE
+Tephra,TRUE,TRUE
+Thermoluminescence,TRUE,TRUE
+Tsuga decline,TRUE,TRUE
+Uranium-series,TRUE,TRUE
+W.O. van der Knaap pollen boundary,TRUE,TRUE
+Welten (1982) pollen boundary,TRUE,TRUE
